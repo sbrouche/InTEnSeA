@@ -1,43 +1,41 @@
 \# InTEnSeA©
 
-Une brève description de ce que fait ce projet et à qui il est destiné. Une introduction concise et attrayante pour capter l'intérêt du lecteur.
-
-\## Commencer
-
-Ces instructions vous permettront d'obtenir une copie du projet en cours d'exécution sur votre machine locale à des fins de développement et de test. Voir déploiement pour des notes sur la façon de déployer le projet sur un système en direct.
-
-\### Prérequis
-
-Ce dont vous avez besoin pour installer le logiciel et comment les installer.
+This software is an experimental task developed during a doctoral project titled "Study of Clinical Signs of Sensory Perception in Children and Adolescents on the Autism Spectrum."
 
 \### Installation
 
-Une étape par étape de la série d'exemples qui vous indiquent comment faire fonctionner un environnement de développement.
+To install the software on Windows, you can download the file => intensea\_windows.exe
 
-Dites ce que l'étape sera
+To install the software on Mac, you can download the file => intensea\_mac\_unix
 
-\## Construit avec
+For those who wish to compile the software, you can download the folder containing images and videos (titled assets) at this URL: https://osf.io/a7g84/
+
+Copy this folder to the root of the project.
+
+\## Built with
 
 Langage C++ 
 
 Dépendance Qt version 6 
 
-\## Auteurs
+\## Authors
 
-Créatrice : 
+Creator : 
 
 Sandra Brouche 
 
-Développeur : 
+Developer : 
 
-nom de M. 
+Loïc Macquincyan Rasoarahoana Rivo Tianahajaina 
 
-Contributeurs : 
+Contributors : 
 
 Fabienne Cazalis 
 
 Natalie Rigal 
 
-\## Licence
+To cite : Brouche, S., Cazalis, F. & Rigal, N. (2022). _InTEnSeA_ (Version 1.2) \[software\].  
 
-Ce projet est sous licence CeCILL - voir le fichier \[LICENSE\] pour plus de détails.
+\## License
+
+This project is licence under CeCILL - see the \[LICENSE\] file for more details.
